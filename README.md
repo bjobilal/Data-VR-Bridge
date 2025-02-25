@@ -1,5 +1,5 @@
 # Data VR Bridge
-Download the latest version of the Data VR Bridge here and learn how to use it.
+Download the latest version of the Data VR Bridge here and learn how to use it. You can find the latest release under Releases >> Tags
 
 # Dependencies
 To successfully run this app, the following need to be installed on your local device:
