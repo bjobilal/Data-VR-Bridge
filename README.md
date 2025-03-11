@@ -18,3 +18,5 @@ The only android device this currently works with is the Oculus Quest. Currently
 - Should you choose a CSV file, your file will be moved to the headset immediately. Alternatively, for the ROOT file option, you will see a tree hierarchy where you can select the leaves in your chosen file that you want to view in Data VR. You can select leaves by clicking on the corresponding name in the central window.
 - Once you have selected your variables, you can click "Create File," which opens a dialog where you can enter the path of your Android SDK Platform Tools directory. Once again, ensure that your headset is connected to your device and detected. 
 - After following the steps, your formatted file will be pushed to your headset, where you can now visualize it in Data VR. Enjoy!
+
+If you do not have any test files, you can download and parse the example_bessel_harmonics.csv file.
